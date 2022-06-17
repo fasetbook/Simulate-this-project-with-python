@@ -1,4 +1,4 @@
-# 某容器云部署Xray高性能代理服务
+# Simulate this project with python
 
 在某容器云部署Xray高性能代理服务，通过ws传输的(vmess、vless、trojan、shadowsocks、socks)等协议
 
